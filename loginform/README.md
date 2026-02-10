@@ -1,4 +1,4 @@
-QSkill Basic Web Development Internship – Task 12
+QSkill Basic Web Development Internship – Task 1
 
 
 
@@ -109,6 +109,7 @@ Username: QSkill
 
 
 Password: QSkill123
+
 
 
 
